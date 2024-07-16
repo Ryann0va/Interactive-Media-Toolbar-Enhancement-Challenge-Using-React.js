@@ -1,0 +1,15 @@
+.movie-selector {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .movie-selector label {
+    margin-right: 10px;
+    font-size: 1.2em;
+  }
+  
+  .movie-selector select {
+    padding: 5px;
+    font-size: 1em;
+  }
+  
