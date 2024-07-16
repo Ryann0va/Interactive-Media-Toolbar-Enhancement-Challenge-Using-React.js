@@ -1,0 +1,17 @@
+//U99350821
+.upload-button {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .upload-button button {
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  .upload-button button:disabled {
+    background-color: gray;
+    cursor: not-allowed;
+  }
+  
